@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.header_logo {
+    padding-top: 10px !important;
+}
+
+.cover .btn-success {
+    background-color: #ed486f;
+    border-color: #ed486f;
+}
+
+
+/* footer */
+small p {
+    background-color: #555555;
+    text-align: center;
+    color: #fff;
+    padding: 30px 0;
+    font-size: 12px;
+}
