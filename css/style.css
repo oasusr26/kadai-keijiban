@@ -32,6 +32,10 @@ main h1 {
 }
 
 /* main */
+main ul {
+    padding: 10px 0;
+    border-bottom: 1px dotted #60C4D0 !important;
+}
 
 
 
