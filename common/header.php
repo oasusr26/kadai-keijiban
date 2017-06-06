@@ -2,9 +2,13 @@
 <html lang="ja">
     <head>
         <meta charset="utf-8">
+        <meta name="keywords" content="messageboard, 掲示板, メッセージボード, php, ポートフォリオ">
+        <meta name="description" content="ポートフォリオのための、掲示板サイトです。">
+        <meta name="author" content="Takehiro.I">
+        <meta name="copyright" content="PHP-keijiban.co.jp">
+        <meta name="robots" content="noindex, nofollow">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <title>掲示板</title>
         <!-- favicon -->
         <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="favicon/favicon.ico">
@@ -28,9 +32,10 @@
         <link rel="manifest" href="favicon/manifest.json">
         <meta name="msapplication-TileColor" content="#2d88ef">
         <meta name="msapplication-TileImage" content="favicon/mstile-144x144.png">
-
         <!-- css -->
         <link rel="stylesheet" href="css/style.css">
+        <!-- google-font -->
+        <link href="https://fonts.googleapis.com/earlyaccess/mplus1p.css" rel="stylesheet" />
         <!-- Bootstrap -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>

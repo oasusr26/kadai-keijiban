@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <div class="header_logo">
-                <a class="navbar-left" href="index.php"><img src="images/logo.png" alt="掲示板" width="70%" height="70%"></a>
+                <a class="navbar-left" href="index.php"><img src="images/logo.png" alt="掲示板" width="60px" height="41px"></a>
                 </div>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
